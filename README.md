@@ -4,4 +4,6 @@
 
 <p>Aplicativo feito juntamente com o curso de android da alura. Nele você consegue inserir o nome, descrição e valor, e com isso monta uma lista de produtos.</p>
 
-<img src="app/src/main/java/com/example/orgs/gifapp">
+<p>Veja abaixo com ficou o app.</p>
+
+![novo](https://github.com/PedrokiDev/cadastro-produto/assets/58268366/60f54ed4-6964-4cae-9871-d608b15619f8)
